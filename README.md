@@ -74,4 +74,4 @@ Open Azure Data Studio.
 * Review the summary and click `Finish` to start the import process.
 ***
 
-[azure]: https://azure.microsoft.com/en-us/products/data-studio# sql-server-docker-azure
+[azure]: https://azure.microsoft.com/en-us/products/data-studio
